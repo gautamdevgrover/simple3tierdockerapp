@@ -10,4 +10,4 @@ CREATE TABLE IF NOT EXISTS users (
 );
 
 -- seed sample rows (id auto increments)
-INSERT INTO users (name) VALUES ('ShriRam'), ('DevOps Learner'), ('Docker Student');
+INSERT INTO users (name) VALUES ('Ram'), ('Krishan'), ('Hari');
